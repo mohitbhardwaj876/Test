@@ -1,0 +1,6 @@
+{{#user}}
+Name: Mohit
+Skills: HTML, CSS, JS, React.js , Git & Github , Bootstrap
+Email: bhardwajm557@gmail.com
+{{/user}}
+
